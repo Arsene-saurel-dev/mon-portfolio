@@ -6,7 +6,7 @@ I am learning full-stack web development to build solutions for real-world probl
 - Python
 - Git&Github
 **My Goal:**
-  To join a tech training / Ausbildung in Germany in 2027 and become a professional developer.
+  To join a tech training / Ausbildung in Germany  and become a professional developer.
   **Contact:**
   -GitHub: @Arsene-saurel-dev
   -Location: Yaoundé, Cameroun
